@@ -1,0 +1,23 @@
+p.flashy {
+  color: red;
+  font-style: italic;	
+}
+
+h2.flashy {
+  color: red;
+  font-style: italic;
+}
+
+ul.flashy{
+  color: red;
+  font-style: italic;  	
+}
+
+img.best {
+  border-radius: 50%;
+}
+
+body {
+
+  background-image: url(http://previews.123rf.com/images/vicushka/vicushka1504/vicushka150400101/38310363-Christmas-cookie-and-cake-bake-tools-for-mold-muffin-and-cupcake-for-on-white-wooden-background-top--Stock-Photo.jpg);
+}
